@@ -93,7 +93,7 @@ body, h1, h2, p, ul, li, a {
   }
   
   .menu-nav a:hover {
-    color: #122ab2;
+    color: #606c38;
   }
   
   .intro {
@@ -171,15 +171,15 @@ body, h1, h2, p, ul, li, a {
   }
   
   .purple {
-    border-top: 8px solid #283618;
+    border-top: 8px solid #606c38;
   }
   
   .pink {
-    border-top: 8px solid #283618;
+    border-top: 8px solid #606c38;
   }
   
   .blue {
-    border-top: 8px solid #283618;
+    border-top: 8px solid #606c38;
   }
   
   .price {
@@ -299,15 +299,15 @@ body, h1, h2, p, ul, li, a {
   }
   
   .item-quality:nth-of-type(3n+1) h2:before {
-    background-color: #ae81ff;
+    background-color: #606c38;
   }
   
   .item-quality:nth-of-type(3n+2) h2:before {
-    background-color: #f9265e;
+    background-color: #606c38;
   }
   
   .item-quality:nth-of-type(3n+3) h2:before {
-    background-color: #66d9eb;
+    background-color: #606c38;
   }
   
   .item-quality p {
@@ -322,7 +322,7 @@ body, h1, h2, p, ul, li, a {
     line-height: 1.4em;
   }
   
-  .newsletter {
+  /* .newsletter {
     background-color: #f7f7f7;
     display: flex;
     flex-wrap: wrap;
@@ -380,7 +380,7 @@ body, h1, h2, p, ul, li, a {
     margin: 0;
     padding: 10px;
     text-transform: uppercase;
-  }
+  } */
   
   footer {
     align-items: center;
